@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# data folder
+data
+
+# pycached
+*.pyc
